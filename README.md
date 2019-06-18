@@ -65,3 +65,4 @@ If you run  this example from an IDE, you will need to instrument models before 
     mvn activejdbc-instrumentation:instrument
 
 
+ 
